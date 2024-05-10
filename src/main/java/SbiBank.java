@@ -7,6 +7,7 @@ public final class SbiBank extends Bank {
 	int interestRate;
 	
 	
+	
 	public int interestRate(int id) {
 
 		return 1;
