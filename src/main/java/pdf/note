@@ -32,6 +32,19 @@ Need to revise LSP, Dependency Inversion:
 
 Lecture 3: Design Patterns: Introduction and Singleton :
 
+1. https://refactoring.guru/design-patterns/singleton/python/example
+
+2. https://dzone.com/articles/java-singletons-using-enum
+
+3.
+
+
+Eagar Loading cons :
+May be in eagar loading the resorces which might not be availabe during the loading of the class .
+
+Double check locking is the optmised one 
+
+
 
 
 
